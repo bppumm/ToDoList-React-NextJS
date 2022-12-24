@@ -7,4 +7,4 @@ module.exports = {
   },
   plugins: [],
   purge: ['./pages/**/*.{js,jsx}', './components/**/*.{js,jsx}'],
-}
+};
